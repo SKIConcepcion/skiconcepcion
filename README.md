@@ -17,4 +17,5 @@
 - 🛏️ Monster Beside My Bed &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/monster-beside-my-bed)
 - 🌊 BOATS (Boat in Ocean: Animation and Terrain Simulation) &nbsp; | &nbsp; [website link](https://seanconcepcion29.github.io/CMSC-161-BOATS/)
 - 📜 Nor Crying, Nor Pain &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/nor-crying-nor-pain)
+- 🌷 Krizkhen Floral Design: Order & Inventory Management System &nbsp; | &nbsp; [website link](https://krizkhen-floral-design.vercel.app/)
 - ❤️ Sa 'yo, Luna &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/sayo-luna)
