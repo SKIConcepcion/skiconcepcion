@@ -3,7 +3,7 @@
 ### About Me
 👨‍💻 Mobile, Web, & 2D Game Developer <br/>
 🎓 Studied Computer Science at the University of the Philippines, Los Baños <br/>
-🌤️ Worked as an Intern at UP Resilience Institute under Project NOAH
+🌤️ Worked as an Intern at UP Resilience Institute under Project NOAH <br/>
 🗂️ Explore more of my projects in this [portfolio](https://seanconcepcion29.github.io/portfolio) website <br/>
 🎮 Play some of my 2D games at my [Itch.io page](https://skiconcepcion.itch.io/) <br/>
 
